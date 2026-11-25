@@ -1,0 +1,27 @@
+
+{
+    "id": "./",
+    "name": "ICT Exam Hub LK",
+    "short_name": "ICT Hub",
+    "description": "6 සිට 11 ශ්‍රේණිය දක්වා ICT සිංහල පාඩම් සටහන් සහ ප්‍රශ්න පත්‍ර",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#080f1e",
+    "theme_color": "#080f1e",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
